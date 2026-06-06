@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">电池监控分析</string>
+    <string name="app_name_zh">电池监控分析</string>
+    <string name="app_name_zhtw">電池監控分析</string>
+    <string name="app_name_en">Battery Diagnostic</string>
+    <string name="app_name_ja">バッテリー情報診断</string>
+    <string name="app_name_de">Batterie Diagnose</string>
+    <string name="app_name_ko">배터리 모니터 진단</string>
+    <string name="app_name_fr">Diagnostic Batterie</string>
+    <string name="app_name_es">Diagnóstico de Batería</string>
+</resources>
